@@ -1,0 +1,7 @@
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\bin\Debug\UdpChat.exe.config
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\bin\Debug\UdpChat.exe
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\bin\Debug\UdpChat.pdb
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\obj\Debug\UdpChat.csprojResolveAssemblyReference.cache
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\obj\Debug\UdpChat.csproj.CoreCompileInputs.cache
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\obj\Debug\UdpChat.exe
+C:\Users\дэл\Desktop\BSUIR\3\КСИС\UdpChat\UdpChat\obj\Debug\UdpChat.pdb
